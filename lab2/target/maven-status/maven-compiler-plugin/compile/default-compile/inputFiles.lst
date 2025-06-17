@@ -1,0 +1,12 @@
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/ApiDemoApplication.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/configuration/RedisConfiguration.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/controller/UserRestApiController.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/db/User.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/db/UserRepository.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/dto/UserCreateDTO.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/dto/UserDTO.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/dto/UserUpdateDTO.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/dto/mapper/UserMapper.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/package-info.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/service/UserService.java
+/mnt/c/Users/User/Desktop/lab2/src/main/java/com/misis/apidemo/service/cache/UserCacheService.java

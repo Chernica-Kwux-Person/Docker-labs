@@ -1,0 +1,13 @@
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/UserServiceApplication.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/configuration/RedisConfiguration.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/controller/UserRestApiController.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/db/User.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/db/UserRepository.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/dto/UserCreateDTO.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/dto/UserDTO.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/dto/UserUpdateDTO.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/dto/mapper/UserMapper.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/package-info.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/service/UserService.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/service/cache/UserCacheService.java
+/mnt/c/Users/User/Desktop/вфыавыавы/lab3-app/user-service/src/main/java/com/misis/archapp/user/service/publisher/UserEventPublisher.java
